@@ -1,4 +1,4 @@
---Begin info.lua By @SoLiD
+--Begin info.lua By @PHAE2099
 local Solid = 157059515
 local function setrank(msg, user_id, value,chat_id)
   local hash = nil
