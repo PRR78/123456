@@ -3861,7 +3861,7 @@ _set Welcome Message_
 _Set Persian/English Language_
 
 *دستورات [فارسی | انگلیسی]*
-_Set CMD Persian/English Language
+_Set CMD Persian/English Language_
 
 *راهنمای سرگرمی*
 _Show Fun Help_
